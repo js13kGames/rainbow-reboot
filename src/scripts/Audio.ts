@@ -1,5 +1,5 @@
-import {AMB} from '@/lib/music.js';
 import * as pc from 'playcanvas';
+import {AMB} from '@/lib/music.js';
 
 export enum SFX {
     SHOOT,

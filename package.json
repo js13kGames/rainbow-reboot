@@ -8,6 +8,7 @@
         "start": "node scripts/build.ts dev",
         "dev": "node scripts/build.ts dev",
         "build": "node scripts/build.ts prod",
+        "build-nr": "node scripts/build.ts prod --no-roadroller",
         "lint": "tsc --noEmit"
     },
     "repository": {
