@@ -3,6 +3,7 @@ genres:
   - action
   - arcade
 video: https://youtu.be/b0QXm3l8sG8
+post: https://timmykokke.com/blog/2026/2026-09-24-js13kgames-2026/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
 
